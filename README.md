@@ -1,4 +1,4 @@
 # UWDRG
-UW DRG project on Family Health.
-<br>Project Lead: Laura Pina.</br>
-<br>My role: Designer & Researcher (and a wee bit of development)</br>
+
+<p>This is a research project I did at the University of Washington on family health. </p>
+<p>I contributed to the visual design, interaction design, user researhch, and some development </p>
